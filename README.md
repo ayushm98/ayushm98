@@ -13,7 +13,7 @@ MS in Computer Science @ Indiana University Bloomington | GPA: 3.9/4.0
 ## Featured Projects
 
 ### [BRCKT](https://brckt.io) - Production Fantasy Tennis Platform
-Full-stack platform with **1,500+ active users** and **27 tournaments hosted**. Real-time match synchronization, bracket management, and AI-powered match analysis. Built with modern monorepo architecture handling complex tournament state management and WebSocket communications.
+Full-stack platform with **1,500+ active users** and **27 tournaments hosted**. Built in collaboration with Keith Hedges. Real-time match synchronization, bracket management, and AI-powered match analysis. Built with modern monorepo architecture handling complex tournament state management and WebSocket communications.
 
 **Tech:** Next.js 16, Express.js, PostgreSQL, Socket.io, Python, Docker
 
