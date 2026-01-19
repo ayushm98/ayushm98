@@ -117,15 +117,27 @@ Intelligent LLM router with semantic caching achieving 60% cost reduction. Route
 
 ## 💼 Experience
 
-### Full Stack Engineer @ [Brckt](https://brckt.io)
-**Dec 2024 - Present**
+### AI Engineer @ Radical Squares
+**Jan 2026 - Present** | Remote
 
-Building production fantasy tennis platform serving 1,500+ users across 27 tournaments. Architected real-time WebSocket infrastructure, complex tournament state management, and AI-powered match analysis system.
+- Architected AI-powered ETL platform using OpenAI GPT-4o for automated data pipeline generation, enabling natural language to SQL transformation across PostgreSQL, MySQL, and SQL Server
+- Optimized LLM cost infrastructure through FinOps analysis, identifying **54.6% cost reduction** via model downgrading, prompt optimization, and semantic caching strategies
+- Developed AI field mapping service with LangChain and GPT-4o, automatically matching source to target columns with confidence scoring and **40% token reduction** through metadata filtering
 
-### AI Engineer @ Riverside Global
-**Jun 2024 - Dec 2024**
+### AI/ML Engineer @ [Brckt (Peristyle Labs)](https://brckt.io)
+**Dec 2025 - Present** | Indianapolis, IN (Remote)
 
-Architected production RAG systems achieving 94% retrieval relevance. Built hybrid search pipelines with cross-encoder reranking and semantic caching.
+- Built real-time tennis match analysis system using Llama 3.3-70B via Venice.ai API, generating professional head-to-head predictions with streaming responses
+- Developed web scraping infrastructure using Playwright headless browser with anti-detection measures, extracting H2H stats from matchstat.com
+- Implemented TTL caching layer with thread-safe operations and automatic eviction, reducing redundant scraping by caching H2H data for 2 hours
+- Deployed FastAPI backend with Server-Sent Events (SSE) for real-time streaming, Docker containerization, and Caddy reverse proxy
+
+### AI Engineer @ Riverside Global LLC
+**Jun 2025 - Dec 2025** | Hampton, IL (Remote)
+
+- Architected production RAG system with 5-stage pipeline: query routing, reformulation, hybrid retrieval (BM25 + semantic), cross-encoder reranking, and GPT-4 generation, **reducing document research time by 60%**
+- Built hybrid search engine combining Sentence-BERT embeddings with BM25 using Reciprocal Rank Fusion (RRF), achieving **94% retrieval relevance** on 10,000+ environmental documents
+- Developed LLM-powered data extraction pipeline using GPT-4 function calling, achieving **95% accuracy** and reducing manual extraction from 3 hours to 15 minutes per document
 
 ---
 
