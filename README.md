@@ -117,14 +117,14 @@ Intelligent LLM router with semantic caching achieving 60% cost reduction. Route
 
 ## 💼 Experience
 
-### AI Engineer @ Radical Squares
+### AI Systems Engineer @ Radical Squares
 **Jan 2026 - Present** | Remote
 
 - Architected AI-powered ETL platform using OpenAI GPT-4o for automated data pipeline generation, enabling natural language to SQL transformation across PostgreSQL, MySQL, and SQL Server
 - Optimized LLM cost infrastructure through FinOps analysis, identifying **54.6% cost reduction** via model downgrading, prompt optimization, and semantic caching strategies
 - Developed AI field mapping service with LangChain and GPT-4o, automatically matching source to target columns with confidence scoring and **40% token reduction** through metadata filtering
 
-### AI/ML Engineer @ [Brckt (Peristyle Labs)](https://brckt.io)
+### Full Stack Engineer @ [Brckt (Peristyle Labs)](https://brckt.io)
 **Dec 2025 - Present** | Indianapolis, IN (Remote)
 
 - Built real-time tennis match analysis system using Llama 3.3-70B via Venice.ai API, generating professional head-to-head predictions with streaming responses
@@ -132,7 +132,7 @@ Intelligent LLM router with semantic caching achieving 60% cost reduction. Route
 - Implemented TTL caching layer with thread-safe operations and automatic eviction, reducing redundant scraping by caching H2H data for 2 hours
 - Deployed FastAPI backend with Server-Sent Events (SSE) for real-time streaming, Docker containerization, and Caddy reverse proxy
 
-### AI Engineer @ Riverside Global LLC
+### AI Systems Engineer @ Riverside Global LLC
 **Jun 2025 - Dec 2025** | Hampton, IL (Remote)
 
 - Architected production RAG system with 5-stage pipeline: query routing, reformulation, hybrid retrieval (BM25 + semantic), cross-encoder reranking, and GPT-4 generation, **reducing document research time by 60%**
