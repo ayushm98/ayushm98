@@ -1,16 +1,21 @@
 # Hey, I'm Ayush Kumar Malik
 
-**AI/ML Engineer** building intelligent systems with LLMs, RAG, and production ML.
+**Full Stack Engineer | AI Systems** building production applications and intelligent systems with LLMs, RAG, and modern web technologies.
 
 MS in Computer Science @ Indiana University Bloomington | GPA: 3.9/4.0
 
 ## What I'm Working On
 
-- Building real-time AI systems and multi-agent architectures
-- Deploying production RAG pipelines with hybrid search
-- Developing MLOps infrastructure for model monitoring and A/B testing
+- Building production full-stack applications with real-time features
+- Developing multi-agent AI systems and intelligent LLM architectures
+- Deploying RAG pipelines and MLOps infrastructure at scale
 
 ## Featured Projects
+
+### [BRCKT](https://brckt.io) - Production Fantasy Tennis Platform
+Full-stack platform with **1,500+ active users** and **27 tournaments hosted**. Real-time match synchronization, bracket management, and AI-powered match analysis. Built with modern monorepo architecture handling complex tournament state management and WebSocket communications.
+
+**Tech:** Next.js 16, Express.js, PostgreSQL, Socket.io, Python, Docker
 
 ### [CodePilot](https://github.com/ayushm98/devon) | [Live Demo](https://huggingface.co/spaces/ayushm98/codepilot)
 Multi-agent AI system for autonomous code generation. Four specialized agents (Planner, Coder, Reviewer, Explorer) orchestrate complex coding tasks with sandboxed execution using E2B.
@@ -29,16 +34,17 @@ Intelligent LLM router with semantic caching achieving 60% cost reduction. Route
 
 ## Tech Stack
 
+**Full Stack:** Next.js, React, Express.js, PostgreSQL, Socket.io, Docker
 **ML/AI:** PyTorch, HuggingFace Transformers, LangChain, Sentence-Transformers
 **LLM & RAG:** GPT-4 API, Claude API, Function Calling, Hybrid Search, Cross-Encoder Reranking
 **Vector Databases:** ChromaDB, FAISS, Qdrant
-**Infrastructure:** AWS (EC2, S3), Docker, FastAPI, PostgreSQL
-**Languages:** Python, SQL
+**Infrastructure:** AWS (EC2, S3), DigitalOcean, Docker, FastAPI
+**Languages:** Python, TypeScript, JavaScript, SQL
 
 ## Experience
 
-**AI/ML Engineer @ Brckt** (Dec 2024 - Present)
-Building real-time sports analytics with LLM streaming inference
+**Full Stack Engineer @ Brckt** (Dec 2024 - Present)
+Building production fantasy tennis platform serving 1,500+ users across 27 tournaments. Architected real-time WebSocket infrastructure, complex tournament state management, and AI-powered match analysis system.
 
 **AI Engineer @ Riverside Global** (Jun 2024 - Dec 2024)
 Architected production RAG systems achieving 94% retrieval relevance
